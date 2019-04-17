@@ -5,7 +5,7 @@ place test files under test_language directory
 
 Run:-
 
-python clean.py to clean directory
-python preprocess.py to preprocess files
+`python clean.py` to clean directory  
+`python preprocess.py` to preprocess files  
 Finally run :-
-python main.py
+`python main.py` to predict language of documents under test_language directory
