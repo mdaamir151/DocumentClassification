@@ -7,5 +7,7 @@ Run:-
 
 `python clean.py` to clean directory  
 `python preprocess.py` to preprocess files  
-Finally run :-
+
+Finally run :-  
+
 `python main.py` to predict language of documents under test_language directory
